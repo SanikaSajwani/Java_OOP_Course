@@ -8,7 +8,7 @@ During my undergraduate degree, in my second semester, I studied Java for Object
 6. Lab 6: 
 7. Lab 7:
 8. Lab 8: Type Casting and Inheritance
-9. Lab 9: 
+9. Lab 9: Hierarchical Inheritance & Polymorphism 
 10. Lab 10:
 11. Lab 11:
 12. Lab 12:
