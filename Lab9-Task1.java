@@ -6,7 +6,7 @@ class Employee {
   double salary = 30000;
 
 void Employee(){
-  System.out.println("I am an Employee.");
+  System.out.println("\nI am an Employee.");
 }
 
 void input(){
@@ -58,10 +58,12 @@ public class Lab9{
   public static void main(String[] args){
       
     FullTimeEmployee fte = new FullTimeEmployee();
+    fte.Employee();
     fte.FullTimeEmployee();
     fte.input(); fte.output();
     
     PartTimeEmployee pte = new PartTimeEmployee();
+    pte.Employee();
     pte.PartTimeEmployee();
     pte.input(); pte.output();
     }
