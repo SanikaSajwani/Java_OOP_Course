@@ -2,7 +2,7 @@
 
 I studied Java for Object-Oriented Programming (OOP) in the second semester of my undergraduate degree. Here are my lab and assignment codes.
 
-## 📌 Labs
+### 📌 Labs
 1. Introduction to Java
 2. Coding Basics in Java
 3. Control Structures
@@ -18,12 +18,25 @@ I studied Java for Object-Oriented Programming (OOP) in the second semester of m
 13. Lab 13:
 14. Lab 14:
 
-## 📝 Assignment Task 1: VideoTape Class
+### 📝 Assignment Task 1: VideoTape Class
 A VideoTape class that follows OOP principles with private data members, constructors, and methods for:
 - Initiating and managing video attributes like Title, Duration, Size, Resolution, Created date, and Classification (Comedy, Drama, or Talk Show).
 - Implementing getter and setter methods.
 - Handling invalid classifications using setClassification().
 - Demonstrating object creation and copying.
+
+### 📝 Assignment Task 2: LengthDetail & Trapezium Classes
+LengthDetail (superclass) with length and width (float).
+- Constructors: Default (-1), Parameterized, Copy.
+- Method: perimeter_shape() (calculates perimeter).
+
+Trapezium (subclass) extends LengthDetail, adding a and b.
+- Uses super for constructor calls.
+- Method: total_length() (calls perimeter_shape() using super).
+
+Main Class
+- Creates three objects (Obj1, Obj2, Obj3 using copy constructor).
+- Calls methods to compute perimeters and prints results.
 
 Check out the full implementation in the repository! 🚀
 
