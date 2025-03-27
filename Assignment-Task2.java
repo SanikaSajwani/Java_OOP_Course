@@ -40,28 +40,28 @@ public class trapezium extends LengthDetail {
         this.b = b;
     }
 
-    public trapezium(Trapezium LD) {
-        super(LD);
+    public trapezium(trapezium LD) {
+        super(LD.length, LD.width);
         this.a = LD.a;
         this.b = LD.b;
     }
 
     public float total_length() {
-        return super.perimeterShape() + a + b;
+        return super.perimeter_shape() + a + b;
     }
 }
 
 // Main Class
 public class Main {
     public static void main(String[] args) {
-        Trapezium obj1 = new Trapezium();
-        System.out.println("Perimeter of obj1: " + obj1.perimeterShape());
+        trapezium obj1 = new trapezium();
+        System.out.println("Perimeter of obj1: " + obj1.perimeter_shape());
 
-        Trapezium obj2 = new Trapezium(5.5, 7.56, 3.45, 1.50);
-        System.out.println("Perimeter of obj2: " + obj2.perimeterShape());
+        trapezium obj2 = new trapezium(5.5, 7.56, 3.45, 1.50);
+        System.out.println("Perimeter of obj2: " + obj2.perimeter_shape());
 
-        Trapezium obj3 = new Trapezium(obj2);
-        System.out.println("Perimeter of obj3: " + obj3.perimeterShape());
+        trapezium obj3 = new trapezium(obj2);
+        System.out.println("Perimeter of obj3: " + obj3.perimeter_shape());
     }
 }
 
