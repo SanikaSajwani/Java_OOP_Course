@@ -35,7 +35,7 @@ Trapezium (subclass) extends LengthDetail, adding a and b.
 - Method: total_length() (calls perimeter_shape() using super).
 
 Main Class
-- Creates three objects (Obj1, Obj2, Obj3 using copy constructor).
+- Creates three objects (Obj1, Obj2, Obj3 using different types of constructors).
 - Calls methods to compute perimeters and prints results.
 
 Check out the full implementation in the repository! 🚀
