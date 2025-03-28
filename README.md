@@ -12,7 +12,7 @@ I studied Java for Object-Oriented Programming (OOP) in the second semester of m
 7. Array, Array List, and Static Keyword
 8. Type Casting and Inheritance
 9. Hierarchical Inheritance and Polymorphism 
-10. Lab 10:
+10. Abstract Classes and Interface
 11. Lab 11:
 12. Lab 12:
 13. Lab 13:
