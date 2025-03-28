@@ -7,11 +7,11 @@ I studied Java for Object-Oriented Programming (OOP) in the second semester of m
 2. Coding Basics in Java
 3. Control Structures
 4. Loops in Java
-5. Lab 5:
-6. Lab 6: 
-7. Lab 7:
+5. Classes and Objects in Java
+6. Constructors and Garbage Collection
+7. Array, Array List, and Static Keyword
 8. Type Casting and Inheritance
-9. Hierarchical Inheritance & Polymorphism 
+9. Hierarchical Inheritance and Polymorphism 
 10. Lab 10:
 11. Lab 11:
 12. Lab 12:
