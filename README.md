@@ -16,7 +16,7 @@ I studied Java for Object-Oriented Programming (OOP) in the second semester of m
 11. Lab 11:
 12. Lab 12:
 13. Lab 13:
-14. Lab 14:
+14. Open Ended Lab
 
 ### 📝 Assignment Task 1: VideoTape Class
 A VideoTape class that follows OOP principles with private data members, constructors, and methods for:
