@@ -75,6 +75,6 @@ public class Calculator extends JFrame implements ActionListener {
     }
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new Calculator("K24-6079"));
+        SwingUtilities.invokeLater(() -> new Calculator("Welcome!"));
     }
 }
