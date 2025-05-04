@@ -14,8 +14,8 @@ I studied Java for Object-Oriented Programming (OOP) in the second semester of m
 9. Hierarchical Inheritance and Polymorphism 
 10. Abstract Classes and Interface
 11. Nested Classes
-12. Lab 12:
-13. Lab 13:
+12. Introduction To Exception Handling
+13. Multi-Catch Exception Handling
 14. Open Ended Lab
 
 ### 📝 Assignment Task 1: VideoTape Class
